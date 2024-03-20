@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"gasolinera","l":"App"},{"p":"gasolinera","l":"Cliente"},{"p":"gasolinera","l":"Gasolina"},{"p":"gasolinera","l":"Gasolinera"}];updateSearchResults();
